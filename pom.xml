@@ -11,6 +11,11 @@
 	<groupId>com.spring</groupId>
 	<artifactId>petClinic</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<modules>
+		<module>pet-clinic-web</module>
+		<module>pet-clinic-data</module>
+	</modules>
 	<name>petClinic</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>

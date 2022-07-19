@@ -1,4 +1,4 @@
-package com.spring.petClinic.model;
+package com.spring.petclinicdata.model;
 
 public class PetType {
     private String name;
