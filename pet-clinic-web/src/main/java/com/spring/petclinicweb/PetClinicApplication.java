@@ -2,7 +2,8 @@ package com.spring.petclinicweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+import org.springframework.context.annotation.ComponentScan;
+//@ComponentScan(basePackages = {"com.spring.petclinicweb","com.spring.petclinicweb"})
 @SpringBootApplication
 public class PetClinicApplication {
 
